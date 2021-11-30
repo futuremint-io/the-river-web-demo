@@ -1,1 +1,115 @@
-/* You can add global styles to this file, and also import other style files */
+:root { 
+  --black: #000000;
+  --deep-blue: #1c0082;
+  --gallery: #efefef;
+  --gray: #808080;
+  --green: #00ff00;
+  --lemon-glacier: #f9ff00;
+  --olive: #7d8500;
+  --red: #ff0000;
+  --teal: #008582;
+  --tuatara: #363535;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xs: 14px;
+  --font-size-xss: 13px;
+  --font-size-xxs: 10px;
+  --font-size-xxxs: 8px;
+  --font-size-xxxxs: 7px;
+ 
+  --font-family-couriernew-bold: "CourierNew-Bold", Helvetica;
+  --font-family-couriernewps-boldmt: "CourierNewPS-BoldMT", Helvetica;
+  --font-family-couriernewpsmt: "CourierNewPSMT", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-pt_sans: "PT Sans", Helvetica;
+}
+.couriernew-bold-gallery-10px {
+  color: var(--gallery);
+  font-family: var(--font-family-couriernew-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.opensans-bold-tuatara-8px {
+  color: var(--tuatara);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.opensans-semi-bold-tuatara-8px {
+  color: var(--tuatara);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700|Open+Sans:400,700,600");
+@font-face {
+  font-family: "BentonSans-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("assets/fonts/BentonSans Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "CourierNewPSMT";
+  font-style: normal;
+  font-weight: 1 1000;
+  src: url("assets/fonts/Courier New.ttf") format("truetype");
+}
+@font-face {
+  font-family: "CourierNew-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("assets/fonts/cour.ttf") format("truetype");
+}
+@font-face {
+  font-family: "CourierNewPS-BoldMT";
+  font-style: normal;
+  font-weight: 700;
+  src: url("assets/fonts/Courier New Bold.ttf") format("truetype");
+}
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

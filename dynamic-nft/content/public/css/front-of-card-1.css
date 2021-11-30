@@ -1,0 +1,210 @@
+/* screen - front-of-card-1 */
+
+.front-of-card-1 {
+  background-color: transparent;
+  height: 597px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.front-of-card-1 .half-mobile-card-aTo92x {
+  background-color: transparent;
+  height: 504px;
+  left: 14px;
+  position: absolute;
+  top: 27px;
+  width: 335px;
+}
+
+.front-of-card-1 .group-330-Ee7J2x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.front-of-card-1 .group-327-1GMbX3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.front-of-card-1 .group-264-ba1aeu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.front-of-card-1 .mobile-card-background-JuhH5q {
+  background-color: transparent;
+  height: 100%;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 19px);
+}
+
+.front-of-card-1 .path-198-x7Pbak {
+  background-color: transparent;
+  height: calc(100.00% + 7px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 7px);
+}
+
+.front-of-card-1 .path-208-JuhH5q {
+  background-color: transparent;
+  bottom: 47px;
+  height: 129px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.front-of-card-1 .group-558-aTo92x {
+  background-color: transparent;
+  height: 152px;
+  left: 13px;
+  position: absolute;
+  top: 365px;
+  width: 335px;
+}
+
+.front-of-card-1 .title-ma5tlI {
+  background-color: transparent;
+  color: #1c7db1;
+  font-family: var(--font-family-pt_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 31px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 230px;
+  position: absolute;
+  text-align: left;
+  top: -100px;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.front-of-card-1 .path-208-ma5tlI {
+  background-color: transparent;
+  height: calc(100.00% - 23px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 100%;
+}
+
+.front-of-card-1 .card-meta-ma5tlI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 116px;
+  left: 28px;
+  position: absolute;
+  width: calc(100.00% - 50px);
+}
+
+.front-of-card-1 .karen-bell-prop-re-gender-aware-FyjocE {
+  background-color: transparent;
+  color: #272727;
+  font-family: var(--font-family-pt_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 90px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 22.76%;
+  width: 100.70%;
+}
+
+.front-of-card-1 .group-364-FyjocE {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.front-of-card-1 .group-320-Ve60xm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.front-of-card-1 .karen-bell-bsw7IY {
+  background-color: transparent;
+  bottom: -2.08%;
+  color: #1c7db1;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.front-of-card-1 .rectangle-519-aTo92x {
+  background-color: transparent;
+  height: 267px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 315px;
+}
+
+.front-of-card-1 .httpsbitly3-fpiim-c-aTo92x {
+  background-color: transparent;
+  color: #9b9b9b;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 212px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  width: 129px;
+}
+
+.front-of-card-1 .the-river-logotype-aTo92x {
+  background-color: transparent;
+  height: 36px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 151px;
+}

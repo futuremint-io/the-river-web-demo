@@ -1,0 +1,221 @@
+<div class="scene">
+  <div class="card" [ngClass]="(Flipped)?'is-flipped':'is-not-flipped'">
+
+
+    <div class="card-face card-face-front">
+
+            <!-- Front --> 
+
+            <div class="container-center-horizontal">
+              <div class="front-of-card screen">
+                <div class="group-525-CZCoxR">
+                  <div class="moble-comic-half-card-qyQE6a">
+                    <div class="half-mobile-card-idw7jc">
+                      <div class="group-330-5We9Ny">
+                        <div class="group-327-4K4ox0">
+                          <div class="group-264-4X8o3s">
+                            <div class="mobile-card-background-x589Lk">
+                              <img class="path-198-jSnUk7" src="assets/img/path-198@1x.png" />
+                            </div>
+                            <img class="path-208-x589Lk" src="assets/img/path-208-2@1x.png" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="group-368-idw7jc">
+                      <h1 class="title-qbmlZT" (click)="setup()">Gendered Environments</h1>
+                      <img class="path-208-qbmlZT" src="assets/img/path-208-1@1x.png" />
+                      <div class="auction-edition-lection-buttons-qbmlZT">
+                        <div class="group-230-g8QEM6">
+                          <img class="path-93-yM1Z3d" src="assets/img/path-93@1x.png" />
+                          <div class="group-372-yM1Z3d"><div class="x10-4RCPQL">10</div></div>
+                        </div>
+                        <div class="group-232-g8QEM6">
+                          <div class="group-371-C8xZxV">
+                            <img class="path-94-NXp1ym" src="assets/img/path-94@1x.png" />
+                            <div class="x5-NXp1ym">5</div>
+                          </div>
+                        </div>
+                        <div class="group-352-g8QEM6"><img class="path-90-5wXWB0" src="assets/img/path-90@1x.png" /></div>
+                      </div>
+                      <img class="polygon-8-qbmlZT" src="assets/img/polygon-8@1x.png" />
+                      <div class="card-meta-qbmlZT">
+                        <img class="group-224-hfpUTO" src="assets/img/group-224@1x.png" />
+                        <div class="edition-time-remaining-hfpUTO">Edition Time Remaining</div>
+                        <div class="karen-bell-prop-re-gender-aware-hfpUTO">
+                          Karen Bell proposes environmental justice research, teaching, policy and practice should be made more
+                          gender aware.
+                        </div>
+                        <div class="group-364-hfpUTO">
+                          <div class="group-363-Dj0wEW">
+                            <img class="path-228-XMHxf4" src="assets/img/path-228-1@1x.png" />
+                            <div class="buy-XMHxf4" (click)="buy()" [ngClass]="(Purchased)?'is-purchased':'is-not-purchased'">{{ Purchased ? 'Sold' : 'Buy' }}</div>
+                          </div>
+                          <div class="group-557-Dj0wEW">
+                            <!-- <img class="path-228-OKNdkX" src="assets/img/path-228-1@1x.png" /> -->
+                            <div class="sold-OKNdkX">Sold</div>
+                          </div>
+                          <div class="group-320-Dj0wEW">
+                            <div class="karen-bell-8z9LSN">Karen Bell</div>
+                            <div class="group-225-8z9LSN">
+                              <div class="edition-uJtLxq opensans-bold-tuatara-8px">Edition</div>
+                              <div class="x0x4210-uJtLxq">{{ Edition | slice:0:6 }}</div>
+                              <div class="raised-uJtLxq opensans-bold-tuatara-8px">Raised</div>
+                              <div class="x1500-uJtLxq opensans-semi-bold-tuatara-8px">15.00</div>
+                              <div class="x200-eqs-uJtLxq opensans-semi-bold-tuatara-8px">{{ CurrentPstBalance | number : '.2-2' }} EQS</div>
+                              <div class="ar-uJtLxq opensans-semi-bold-tuatara-8px">AR</div>
+                              <div class="pst-uJtLxq opensans-bold-tuatara-8px">PST</div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="group-362-hfpUTO">
+                          <img class="path-200-UJmEZH" src="assets/img/path-200@1x.png" />
+                          <div class="group-226-UJmEZH">
+                            <div class="group-113-mYPmAm">
+                              <img class="path-176-uf5ofD" src="assets/img/path-176@1x.png" />
+                              <img class="line-2-uf5ofD" src="assets/img/line-2@1x.png" />
+                              <img class="line-3-uf5ofD" src="assets/img/line-3@1x.png" />
+                              <img class="line-4-uf5ofD" src="assets/img/line-4@1x.png" />
+                            </div>
+                          </div>
+                          <div class="amyi-mk-UJmEZH">
+                            <div class="group-3-7cja2K">
+                              <img class="path-28-xH06Xy" src="assets/img/path-28@1x.png" />
+                              <img class="path-29-xH06Xy" src="assets/img/path-29@1x.png" />
+                              <img class="path-30-xH06Xy" src="assets/img/path-30@1x.png" />
+                              <img class="path-31-xH06Xy" src="assets/img/path-31@1x.png" />
+                            </div>
+                          </div>
+                          <div class="group-347-UJmEZH"  (click)="curate()">
+                            <img class="line-20-esxHMw" src="assets/img/line-20@1x.png" />
+                            <img class="path-227-esxHMw" src="assets/img/path-227@1x.png" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="view-card-nft-CZCoxR" (click)="flip()">View Card NFT</div>
+                <img class="rectangle-519-CZCoxR" src="assets/img/rectangle-519@1x.png" />
+                <div class="httpsbitly3-fpiim-c-CZCoxR">https://bit.ly/3FpiimC</div>
+              </div>
+          </div>
+    </div>
+
+
+    <div class="card-face card-face-back">
+
+                    <div class="container-center-horizontal">
+                      <div class="back-of-card screen">
+                        <div class="group-526-LPwaVb">
+                          <div class="group-330-qosaPK">
+                            <div class="group-327-YslpTr">
+                              <div class="group-264-wopAuJ">
+                                <div class="mobile-card-background-9uqrox">
+                                  <img class="path-198-YjxdRi" src="assets/img/path-198-1@1x.png" />
+                                </div>
+                                <img class="path-208-9uqrox" src="assets/img/path-208-2@1x.png" />
+                              </div>
+                            </div>
+                          </div>
+                          <div class="group-533-qosaPK">
+                            <div class="ellipse-266-anmp1v"></div>
+                            <div class="ellipse-267-anmp1v"></div>
+                            <div class="ellipse-268-anmp1v"></div>
+                            <div class="ellipse-269-anmp1v"></div>
+                            <div class="ellipse-270-anmp1v"></div>
+                            <div class="ellipse-271-anmp1v"></div>
+                            <div class="ellipse-272-anmp1v"></div>
+                            <div class="ellipse-273-anmp1v"></div>
+                            <div class="ellipse-274-anmp1v"></div>
+                            <div class="ellipse-275-anmp1v"></div>
+                            <div class="ellipse-276-anmp1v"></div>
+                            <div class="ellipse-277-anmp1v"></div>
+                            <div class="ellipse-278-anmp1v"></div>
+                            <div class="ellipse-279-anmp1v"></div>
+                            <div class="ellipse-280-anmp1v"></div>
+                            <div class="ellipse-281-anmp1v"></div>
+                            <div class="ellipse-282-anmp1v"></div>
+                            <div class="ellipse-283-anmp1v"></div>
+                            <div class="ellipse-284-anmp1v"></div>
+                            <div class="ellipse-285-anmp1v"></div>
+                            <div class="ellipse-286-anmp1v"></div>
+                            <div class="ellipse-287-anmp1v"></div>
+                            <div class="ellipse-288-anmp1v"></div>
+                            <div class="ellipse-289-anmp1v"></div>
+                            <div class="ellipse-290-anmp1v"></div>
+                            <div class="ellipse-291-anmp1v"></div>
+                            <div class="ellipse-292-anmp1v"></div>
+                            <div class="ellipse-293-anmp1v"></div>
+                            <div class="ellipse-294-anmp1v"></div>
+                            <div class="ellipse-295-anmp1v"></div>
+                            <div class="ellipse-296-anmp1v"></div>
+                            <div class="ellipse-297-anmp1v"></div>
+                            <div class="ellipse-298-anmp1v"></div>
+                            <div class="ellipse-299-anmp1v"></div>
+                            <div class="ellipse-300-anmp1v"></div>
+                            <div class="ellipse-301-anmp1v"></div>
+                            <div class="ellipse-302-anmp1v"></div>
+                            <div class="ellipse-303-anmp1v"></div>
+                            <div class="ellipse-304-anmp1v"></div>
+                            <div class="ellipse-305-anmp1v"></div>
+                            <div class="ellipse-306-anmp1v"></div>
+                            <div class="ellipse-307-anmp1v"></div>
+                            <div class="ellipse-308-anmp1v"></div>
+                            <div class="ellipse-309-anmp1v"></div>
+                            <div class="ellipse-310-anmp1v"></div>
+                            <div class="ellipse-311-anmp1v"></div>
+                            <div class="ellipse-312-anmp1v"></div>
+                            <div class="ellipse-313-anmp1v"></div>
+                            <div class="ellipse-314-anmp1v"></div>
+                            <div class="ellipse-315-anmp1v"></div>
+                            <div class="ellipse-316-anmp1v"></div>
+                            <div class="ellipse-317-anmp1v"></div>
+                            <div class="ellipse-318-anmp1v"></div>
+                            <div class="ellipse-319-anmp1v"></div>
+                            <div class="ellipse-320-anmp1v"></div>
+                            <div class="ellipse-321-anmp1v"></div>
+                            <div class="ellipse-322-anmp1v"></div>
+                            <div class="ellipse-323-anmp1v"></div>
+                            <div class="ellipse-324-anmp1v"></div>
+                            <div class="ellipse-325-anmp1v"></div>
+                            <div class="ellipse-326-anmp1v"></div>
+                          </div>
+                          <img class="path-539-qosaPK" src="assets/img/path-539@1x.png" />
+                          <div class="x0xc0ba1a639f381-652a8d73a6bfd8e-qosaPK">
+                            0xc0b<br />a1a63<br />9f381<br />47fb8<br />a943d<br />a26db<br />4bc26<br />32723<br />bbb48<br />d3f77<br />a652a<br />8d73a<br />6bfd8e<br /><br />
+                          </div>
+                          <div class="date-qosaPK couriernew-bold-gallery-10px">Date</div>
+                          <div class="hash-qosaPK couriernew-bold-gallery-10px">Hash</div>
+                          <img class="line-71-qosaPK" src="assets/img/line-71@1x.png" />
+                          <div class="group-554-qosaPK">
+                            <img class="path-539-GJatE8" src="assets/img/path-539-1@1x.png" />
+                            <img class="line-78-GJatE8" src="assets/img/line-78@1x.png" />
+                            <div class="x2021-GJatE8">2021</div>
+                            <img class="path-540-GJatE8" src="assets/img/path-540@1x.png" />
+                            <img class="line-79-GJatE8" src="assets/img/line-79@1x.png" />
+                            <img class="path-541-GJatE8" src="assets/img/path-541@1x.png" />
+                            <img class="line-80-GJatE8" src="assets/img/line-80@1x.png" />
+                          </div>
+                        </div>
+                        <div class="group-555-LPwaVb">
+                          <div class="v-sc-lu-k-wg5-v-tds-x-t-rcxpim-V1cw8B">{{ OwnerHash }}</div>
+                          <div class="z-pju7-iv3q-e-t-fg-ynn9-nqy-wmp-V1cw8B">{{ TxHash }}</div>
+                          <div class="owner-V1cw8B couriernew-bold-gallery-10px">Owner</div>
+                          <div class="tx-V1cw8B couriernew-bold-gallery-10px">Tx</div>
+                        </div>
+                        <img class="line-76-LPwaVb" src="assets/img/line-76@1x.png" />
+                        <img class="group-556-LPwaVb" src="assets/img/group-556@1x.png"  (click)="flip()" />
+                        <div class="nft-LPwaVb">NFT</div>
+                        <div class="gendered-environments-LPwaVb">Gendered Environments</div>
+                        <img class="rectangle-520-LPwaVb" src="assets/img/rectangle-520@1x.png" />
+                        <img class="line-77-LPwaVb" src="assets/img/line-76@1x.png" />
+                        <img class="line-82-LPwaVb" src="assets/img/line-82@1x.png" />
+                        <div class="httpsbitly3-fpiim-c-LPwaVb">https://bit.ly/3FpiimC</div>
+                      </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="current-state"><pre>{{ CurrentState }} </pre></div>

@@ -1,0 +1,22 @@
+{
+"owner": "CcYmjJCv95_7TKeJBh93fALSp2t9hqQk2WkMoyfMTXE",
+"name": "Gendered Environments",
+"description":"Karen Bell proposes environmental justice research, teaching, policy and practice should be made more gender aware.",
+"tags": ["Gender", "Environment", "Farming", "Food", "Equality"],
+"ticker": "EQS",
+"copies":{
+    "purchased":0,
+    "available":100,
+    "contributors":[]
+},  
+"balances": {},
+  "contentType": "text/html",
+  "createdAt": "1624057295",
+  "decay":{ 
+    "minted": "731128",
+    "lastLock": "731128",
+    "lockState" : "65",
+    "lastMax" : "0"
+  },
+  "ethOwnerAddress": "0x2f60cfc6c157a1a2f47e4dcad90377393b57159a"
+}

@@ -1,0 +1,230 @@
+$ yarn deploy
+yarn run v1.16.0
+$ node deploy.js
+Initialized Koii Tools for true ownership and direct communication using version QA7AIFVx1KBBmzC7WUNhJbDsHlSJArUT0jWrhZMZPS8
+
+wallet: C:\Users\acasey\Documents\Personal\FutureMint\wallet-adam-2\arweave-keyfile-fhK92v8-ViM05T-m2EDC492oXm9AJbNVQoOehe9FTOU.json
+data type undefined
+Transaction {
+  format: 2,
+  id: 'YfRIHMS6PR2-Or60Vt6Iwu4zCuiFL4NsjgnM6t3osDY',
+  last_tx: 'nwZ30uzaM3SsQ7KTSXzQBChdtPge57pNCsOx18ZRGW4PGsr_LNQeZdR2MCP8wjgD',
+  owner: 'isTZOm6MF58mG0EIoyG-zOnBXq54SAM4t4bmU5AzjqxbB0R1rdhiAy3XENdCvv-hd5_60D0K3D7oju9k8jGA-tsw2rLvELqB8HSshhK_80ElvYVPUKLBIPcp02gPj5czBBXum4Xeraw-XPeWkUBlE_-hwznbO-gMTwYQBM
+M4pXT9mObI-NoqXYvedRYgF7SGhsFs3SCctB5xAmng5fLhopJG0eba3AxLTYJuZHKpMCuDmaltmcaBz4Kc_zH8Qnm-76oIvLSl4FiJBkkKhwncozr5cMmn0_jt_UbQp7uqnnwguvp3e_EgOw-ZCfgTU_P2lqHBM1iE-e3dKJCtsW14E7
+iSONUC05Q-TDLN4chD4UeLylt5VbqZb5VvMcRxuEqwrrSLNUYsZWY8EvBnLsBN9NczEeBbZZvtpIF4kL4C55YWdWUQQVx-wZ3aHtvXCvIBueFyuhxbUG4txW2zzI2MUo4jD-Ps0zFx7KTbp6pWy8j_PFZNQifPsP4EtksOcX0jFKZUh9
+FsvIjzIPkjSgCBCbIVXsZoum6vCBMjCgt_bxZkZ3itApdqAb0urXnhmUyVpmyOj-Lw0nA9BNQvTg6zwPf8Bmw9YSlgai0uvfs3oZFlie-20IccDTsXcu3D84tAOg2dRbQcqCsdaTlv1dnk7h59xOHuq7aIXTmOHNw89kU',
+  tags: [
+    Tag { name: 'Q29udGVudC1UeXBl', value: 'dGV4dC9odG1s' },
+    Tag { name: 'RXhjaGFuZ2U', value: 'VmVydG8' },
+    Tag { name: 'QWN0aW9u', value: 'bWFya2V0cGxhY2UvQ3JlYXRl' },
+    Tag { name: 'QXBwLU5hbWU', value: 'U21hcnRXZWF2ZUNvbnRyYWN0' },
+    Tag { name: 'QXBwLVZlcnNpb24', value: 'MC4zLjA' },
+    Tag {
+      name: 'Q29udHJhY3QtU3Jj',
+      value: 'bjNoX2VxNVRNUkZiemg0U1IwX3lMT1RMV1hVMEFLbXVyMXk2TGVSeUtLYw'
+    },
+    Tag {
+      name: 'SW5pdC1TdGF0ZQ',
+      value: 'eyJvd25lciI6ImZoSzkydjgtVmlNMDVULW0yRURDNDkyb1htOUFKYk5WUW9PZWhlOUZUT1UiLCJuYW1lIjoiR2VuZGVyZWQgRW52aXJvbm1lbnRzIiwiZGVzY3JpcHRpb24iOiJLYXJlbiBCZWxsIHByb3Bvc2VzIG
+Vudmlyb25tZW50YWwganVzdGljZSByZXNlYXJjaCwgdGVhY2hpbmcsIHBvbGljeSBhbmQgcHJhY3RpY2Ugc2hvdWxkIGJlIG1hZGUgbW9yZSBnZW5kZXIgYXdhcmUuIiwidGFncyI6WyJHZW5kZXIiLCJFbnZpcm9ubWVudCIsIkZhcm
+1pbmciLCJGb29kIiwiRXF1YWxpdHkiXSwidGlja2VyIjoiRVFTIiwiY29waWVzIjp7InB1cmNoYXNlZCI6MCwiYXZhaWxhYmxlIjoxMDAsImNvbnRyaWJ1dG9ycyI6W119LCJiYWxhbmNlcyI6e30sImNvbnRlbnRUeXBlIjoidGV4dC
+9odG1sIiwiY3JlYXRlZEF0IjoiMTYyNDA1NzI5NSIsImRlY2F5Ijp7Im1pbnRlZCI6IjczMTEyOCIsImxhc3RMb2NrIjoiNzMxMTI4IiwibG9ja1N0YXRlIjoiNjUiLCJsYXN0TWF4IjoiMCJ9LCJldGhPd25lckFkZHJlc3MiOiIweD
+JmNjBjZmM2YzE1N2ExYTJmNDdlNGRjYWQ5MDM3NzM5M2I1NzE1OWEifQ'
+    }
+  ],
+  target: '',
+  quantity: '0',
+  data_size: '1103416',
+  data: <Buffer 3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 0a 3c 68 74 6d 6c 3e 3c 21 2d 2d 20 0a 20 73 69 6e 67 6c 65 20 68 74 6d 6c 20 70 72 6f 63 65 73 73 65 64 ... 110336
+6 more bytes>,
+  data_root: 'xf_cgH12VGpEsmxmTqJkr4XDmQLzoJywwIzbUoDO08Q',
+  reward: '214433376',
+  signature: 'W0bWLKDSJMzsoP7m6hvPSFsLiSKVm3JLBop7s0ivkxid4PmI1jsLjdvsDkYjE95M-Ruxqvq6UkCeW2TqLe3k4P9-s9w08rR1O6sfi7p-zjeFgSdlc5JibSJ3zUhF9NNNCdMkxgSBP-cmtAUNVg_6jVU0NUkt7czjGL
+108W9VcCllFi-Rg-8ovXSa9VZVqB4dZAoWVJMPfGP7CWIC8kYQlJY2cNUU1SdPD_xYrsiVHlq3egbUYOm0lJzziL2ia-F5VZ9ZbIYRmHI_iAer_jjE7shnk27qgFqkK9yHnWHTog7ijnvk7P5ZjARfmWRbhpCDBr_F3U_pk3WE7k6B9Z
+V72iEaPQ1argMc7UIrLxJpp7fT1DlT921DhjvCWYOt2sHVP1CoAbWy8F6996pkwjqIxRgKeEQrHd87MrM6ckZF3zZejbp-ZcNUx-l2vqY0Kxz5_KCfTffJh6E7tKJjCi_CN8agSyfgpI1IrHjrMfwW3NC2JEqdNLld5AHcB_-WsaQ_Vc
+S9gVqVpV1pb0QEyojuf_Hyj8TEK9be9wzM3c2DI1tFr0MWUoc6DiQjOimB-UQIKAMxNM0H0R2lKe-8Y6vnPIVDosdyQthN1_14kGeftXX06xpV3mNJKZ13vZ9Mb4_UDcnliQoRNto3PVvKScKZytn2aojOQZgnnXJ6b_7a-rg',
+  chunks: {
+    data_root: Uint8Array(32) [
+      197, 255, 220, 128, 125, 118,  84,
+      106,  68, 178, 108, 102,  78, 162,
+      100, 175, 133, 195, 153,   2, 243,
+      160, 156, 176, 192, 140, 219,  82,
+      128, 206, 211, 196
+    ],
+    chunks: [ [Object], [Object], [Object], [Object], [Object] ],
+    proofs: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+YfRIHMS6PR2-Or60Vt6Iwu4zCuiFL4NsjgnM6t3osDY
+0% complete 0/5
+20% complete 1/5
+40% complete 2/5
+60% complete 3/5
+80% complete 4/5
+100% complete 5/5
+C:\Users\acasey\Documents\Personal\FutureMint\the-river\dynamic-nft\content\deploy.js:111
+    var registration = await koi.registerData(tx.id, initialState.owner)
+                                 ^
+
+TypeError: koi.registerData is not a function
+    at handleData (C:\Users\acasey\Documents\Personal\FutureMint\the-river\dynamic-nft\content\deploy.js:111:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+ACASEY@BOS-PC-18-022 MINGW64 ~/Documents/Personal/FutureMint/the-river/dynamic-nft/content (develop)
+$ yarn
+yarn install v1.16.0
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 0.80s.
+
+ACASEY@BOS-PC-18-022 MINGW64 ~/Documents/Personal/FutureMint/the-river/dynamic-nft/content (develop)
+$ yarn deploy
+yarn run v1.16.0
+$ node deploy.js
+Initialized Koii Tools for true ownership and direct communication using version QA7AIFVx1KBBmzC7WUNhJbDsHlSJArUT0jWrhZMZPS8
+mintNFT
+wallet: C:\Users\acasey\Documents\Personal\FutureMint\wallet-adam-2\arweave-keyfile-fhK92v8-ViM05T-m2EDC492oXm9AJbNVQoOehe9FTOU.json
+handleData
+data type undefined
+tx
+Transaction {
+  format: 2,
+  id: 'PfDtNTt1uq9u1nWQiM9s5ISfeB-xHAhChfZ5HAEC_hA',
+  last_tx: '6Hvn-jGW_AwlGiMtdl3j7DN_9Zv3C9r1jTgtXSRdZAzXBQNgNUGefpOB4XVUleWt',
+  owner: 'isTZOm6MF58mG0EIoyG-zOnBXq54SAM4t4bmU5AzjqxbB0R1rdhiAy3XENdCvv-hd5_60D0K3D7oju9k8jGA-tsw2rLvELqB8HSshhK_80ElvYVPUKLBIPcp02gPj5czBBXum4Xeraw-XPeWkUBlE_-hwznbO-gMTwYQBM
+M4pXT9mObI-NoqXYvedRYgF7SGhsFs3SCctB5xAmng5fLhopJG0eba3AxLTYJuZHKpMCuDmaltmcaBz4Kc_zH8Qnm-76oIvLSl4FiJBkkKhwncozr5cMmn0_jt_UbQp7uqnnwguvp3e_EgOw-ZCfgTU_P2lqHBM1iE-e3dKJCtsW14E7
+iSONUC05Q-TDLN4chD4UeLylt5VbqZb5VvMcRxuEqwrrSLNUYsZWY8EvBnLsBN9NczEeBbZZvtpIF4kL4C55YWdWUQQVx-wZ3aHtvXCvIBueFyuhxbUG4txW2zzI2MUo4jD-Ps0zFx7KTbp6pWy8j_PFZNQifPsP4EtksOcX0jFKZUh9
+FsvIjzIPkjSgCBCbIVXsZoum6vCBMjCgt_bxZkZ3itApdqAb0urXnhmUyVpmyOj-Lw0nA9BNQvTg6zwPf8Bmw9YSlgai0uvfs3oZFlie-20IccDTsXcu3D84tAOg2dRbQcqCsdaTlv1dnk7h59xOHuq7aIXTmOHNw89kU',
+  tags: [
+    Tag { name: 'Q29udGVudC1UeXBl', value: 'dGV4dC9odG1s' },
+    Tag { name: 'RXhjaGFuZ2U', value: 'VmVydG8' },
+    Tag { name: 'QWN0aW9u', value: 'bWFya2V0cGxhY2UvQ3JlYXRl' },
+    Tag { name: 'QXBwLU5hbWU', value: 'U21hcnRXZWF2ZUNvbnRyYWN0' },
+    Tag { name: 'QXBwLVZlcnNpb24', value: 'MC4zLjA' },
+    Tag {
+      name: 'Q29udHJhY3QtU3Jj',
+      value: 'bjNoX2VxNVRNUkZiemg0U1IwX3lMT1RMV1hVMEFLbXVyMXk2TGVSeUtLYw'
+    },
+    Tag {
+      name: 'SW5pdC1TdGF0ZQ',
+      value: 'eyJvd25lciI6ImZoSzkydjgtVmlNMDVULW0yRURDNDkyb1htOUFKYk5WUW9PZWhlOUZUT1UiLCJuYW1lIjoiR2VuZGVyZWQgRW52aXJvbm1lbnRzIiwiZGVzY3JpcHRpb24iOiJLYXJlbiBCZWxsIHByb3Bvc2VzIG
+Vudmlyb25tZW50YWwganVzdGljZSByZXNlYXJjaCwgdGVhY2hpbmcsIHBvbGljeSBhbmQgcHJhY3RpY2Ugc2hvdWxkIGJlIG1hZGUgbW9yZSBnZW5kZXIgYXdhcmUuIiwidGFncyI6WyJHZW5kZXIiLCJFbnZpcm9ubWVudCIsIkZhcm
+1pbmciLCJGb29kIiwiRXF1YWxpdHkiXSwidGlja2VyIjoiRVFTIiwiY29waWVzIjp7InB1cmNoYXNlZCI6MCwiYXZhaWxhYmxlIjoxMDAsImNvbnRyaWJ1dG9ycyI6W119LCJiYWxhbmNlcyI6e30sImNvbnRlbnRUeXBlIjoidGV4dC
+9odG1sIiwiY3JlYXRlZEF0IjoiMTYyNDA1NzI5NSIsImRlY2F5Ijp7Im1pbnRlZCI6IjczMTEyOCIsImxhc3RMb2NrIjoiNzMxMTI4IiwibG9ja1N0YXRlIjoiNjUiLCJsYXN0TWF4IjoiMCJ9LCJldGhPd25lckFkZHJlc3MiOiIweD
+JmNjBjZmM2YzE1N2ExYTJmNDdlNGRjYWQ5MDM3NzM5M2I1NzE1OWEifQ'
+    }
+  ],
+  target: '',
+  quantity: '0',
+  data_size: '1103416',
+  data: <Buffer 3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 0a 3c 68 74 6d 6c 3e 3c 21 2d 2d 20 0a 20 73 69 6e 67 6c 65 20 68 74 6d 6c 20 70 72 6f 63 65 73 73 65 64 ... 110336
+6 more bytes>,
+  data_root: 'xf_cgH12VGpEsmxmTqJkr4XDmQLzoJywwIzbUoDO08Q',
+  reward: '214433376',
+  signature: 'eLWV9IRGXdme0ci4BS8Mq1GaBA0RFaB60Mk5W0GVWJgzEKVgzbDqz0lq7jJnwq6OyEPIxPhPf6R4I_no4Jgvp398Y67hc3NPd2FGZmg6hGhcNAhWejLtntu7PPC0tlO1TRC2ZUIERH894Y9iWni9a-rU5xMXIQdmQf
+9tcPoPoQYtVMGp6i7IuNg6YJE0pVoWfA_ox5gt_RGoowsofMaTGZDfh3A9j6HidpxO4kYBvw9vPkLyWBJfcgTlpjjUCyl6U1e1HjWCQi7VSKwKMJnyQYKAcx_vZx3ZF4Fcd3ly1YrDu8AWoTTmScHxEXxkp31I8fvvE8PPYQz6Wtmfh2
+s_CCRG-uXV3yJfW25w-qrh0bXL-Ri3i1HTfBbAj2cIJzVMAdA2Ra1R6wuAu2g1cyq_s-uSRoqMWBGfF9G6uVQ3SknHQ4d3gLfvyr66LPC744e-j4oMWMQj8jYqSM1q4pd-ErZVvvDqo3_ayTwPltf1bftXea31m8GdZJ5ILKs-sDk9CB
+l2XUsnqFEwzZF1_XOPHmHHMEwg3HJT-BgFk2zmhWZTL32B_iM8dPVe1TvCImdOk2oW9kqTGXLqhK6isfqchxE6FrMPkuJMYbYvDErrfxT2Y7HQ6zVq8WpkRkBlau-WQPRM92BvhKs0mu_3oU38R3kZ2Eh39mFBi2SJVm7LfZ0',
+  chunks: {
+    data_root: Uint8Array(32) [
+      197, 255, 220, 128, 125, 118,  84,
+      106,  68, 178, 108, 102,  78, 162,
+      100, 175, 133, 195, 153,   2, 243,
+      160, 156, 176, 192, 140, 219,  82,
+      128, 206, 211, 196
+    ],
+    chunks: [ [Object], [Object], [Object], [Object], [Object] ],
+    proofs: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+tx.id
+PfDtNTt1uq9u1nWQiM9s5ISfeB-xHAhChfZ5HAEC_hA
+0% complete 0/5
+20% complete 1/5
+40% complete 2/5
+60% complete 3/5
+80% complete 4/5
+100% complete 5/5
+Transaction PfDtNTt1uq9u1nWQiM9s5ISfeB-xHAhChfZ5HAEC_hA status code is 404
+C:\Users\acasey\Documents\Personal\FutureMint\the-river\dynamic-nft\content\deploy.js:120
+    console.log('registered to koii under ', registration)
+                                             ^
+
+ReferenceError: registration is not defined
+    at handleData (C:\Users\acasey\Documents\Personal\FutureMint\the-river\dynamic-nft\content\deploy.js:120:46)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+ACASEY@BOS-PC-18-022 MINGW64 ~/Documents/Personal/FutureMint/the-river/dynamic-nft/content (develop)
+$ yarn deploy
+yarn run v1.16.0
+$ node deploy.js
+Initialized Koii Tools for true ownership and direct communication using version QA7AIFVx1KBBmzC7WUNhJbDsHlSJArUT0jWrhZMZPS8
+mintNFT
+wallet: C:\Users\acasey\Documents\Personal\FutureMint\wallet-adam-2\arweave-keyfile-fhK92v8-ViM05T-m2EDC492oXm9AJbNVQoOehe9FTOU.json
+handleData
+data type undefined
+tx
+Transaction {
+  format: 2,
+  id: 'cB-Ud5jQzJA6E14fhYz09Jkoixli4HwF970o-oGsVaw',
+  last_tx: '6Hvn-jGW_AwlGiMtdl3j7DN_9Zv3C9r1jTgtXSRdZAzXBQNgNUGefpOB4XVUleWt',
+  owner: 'isTZOm6MF58mG0EIoyG-zOnBXq54SAM4t4bmU5AzjqxbB0R1rdhiAy3XENdCvv-hd5_60D0K3D7oju9k8jGA-tsw2rLvELqB8HSshhK_80ElvYVPUKLBIPcp02gPj5czBBXum4Xeraw-XPeWkUBlE_-hwznbO-gMTwYQBM
+M4pXT9mObI-NoqXYvedRYgF7SGhsFs3SCctB5xAmng5fLhopJG0eba3AxLTYJuZHKpMCuDmaltmcaBz4Kc_zH8Qnm-76oIvLSl4FiJBkkKhwncozr5cMmn0_jt_UbQp7uqnnwguvp3e_EgOw-ZCfgTU_P2lqHBM1iE-e3dKJCtsW14E7
+iSONUC05Q-TDLN4chD4UeLylt5VbqZb5VvMcRxuEqwrrSLNUYsZWY8EvBnLsBN9NczEeBbZZvtpIF4kL4C55YWdWUQQVx-wZ3aHtvXCvIBueFyuhxbUG4txW2zzI2MUo4jD-Ps0zFx7KTbp6pWy8j_PFZNQifPsP4EtksOcX0jFKZUh9
+FsvIjzIPkjSgCBCbIVXsZoum6vCBMjCgt_bxZkZ3itApdqAb0urXnhmUyVpmyOj-Lw0nA9BNQvTg6zwPf8Bmw9YSlgai0uvfs3oZFlie-20IccDTsXcu3D84tAOg2dRbQcqCsdaTlv1dnk7h59xOHuq7aIXTmOHNw89kU',
+  tags: [
+    Tag { name: 'Q29udGVudC1UeXBl', value: 'dGV4dC9odG1s' },
+    Tag { name: 'RXhjaGFuZ2U', value: 'VmVydG8' },
+    Tag { name: 'QWN0aW9u', value: 'bWFya2V0cGxhY2UvQ3JlYXRl' },
+    Tag { name: 'QXBwLU5hbWU', value: 'U21hcnRXZWF2ZUNvbnRyYWN0' },
+    Tag { name: 'QXBwLVZlcnNpb24', value: 'MC4zLjA' },
+    Tag {
+      name: 'Q29udHJhY3QtU3Jj',
+      value: 'bjNoX2VxNVRNUkZiemg0U1IwX3lMT1RMV1hVMEFLbXVyMXk2TGVSeUtLYw'
+    },
+    Tag {
+      name: 'SW5pdC1TdGF0ZQ',
+      value: 'eyJvd25lciI6ImZoSzkydjgtVmlNMDVULW0yRURDNDkyb1htOUFKYk5WUW9PZWhlOUZUT1UiLCJuYW1lIjoiR2VuZGVyZWQgRW52aXJvbm1lbnRzIiwiZGVzY3JpcHRpb24iOiJLYXJlbiBCZWxsIHByb3Bvc2VzIG
+Vudmlyb25tZW50YWwganVzdGljZSByZXNlYXJjaCwgdGVhY2hpbmcsIHBvbGljeSBhbmQgcHJhY3RpY2Ugc2hvdWxkIGJlIG1hZGUgbW9yZSBnZW5kZXIgYXdhcmUuIiwidGFncyI6WyJHZW5kZXIiLCJFbnZpcm9ubWVudCIsIkZhcm
+1pbmciLCJGb29kIiwiRXF1YWxpdHkiXSwidGlja2VyIjoiRVFTIiwiY29waWVzIjp7InB1cmNoYXNlZCI6MCwiYXZhaWxhYmxlIjoxMDAsImNvbnRyaWJ1dG9ycyI6W119LCJiYWxhbmNlcyI6e30sImNvbnRlbnRUeXBlIjoidGV4dC
+9odG1sIiwiY3JlYXRlZEF0IjoiMTYyNDA1NzI5NSIsImRlY2F5Ijp7Im1pbnRlZCI6IjczMTEyOCIsImxhc3RMb2NrIjoiNzMxMTI4IiwibG9ja1N0YXRlIjoiNjUiLCJsYXN0TWF4IjoiMCJ9LCJldGhPd25lckFkZHJlc3MiOiIweD
+JmNjBjZmM2YzE1N2ExYTJmNDdlNGRjYWQ5MDM3NzM5M2I1NzE1OWEifQ'
+    }
+  ],
+  target: '',
+  quantity: '0',
+  data_size: '1103416',
+  data: <Buffer 3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 0a 3c 68 74 6d 6c 3e 3c 21 2d 2d 20 0a 20 73 69 6e 67 6c 65 20 68 74 6d 6c 20 70 72 6f 63 65 73 73 65 64 ... 110336
+6 more bytes>,
+  data_root: 'xf_cgH12VGpEsmxmTqJkr4XDmQLzoJywwIzbUoDO08Q',
+  reward: '214433376',
+  signature: 'iTdAyM_4zuMomc4hQlY6D8Sn8wH3n_JVx82QO9C4kUdp6C9YM2GZKYvl5md97FRJS7BDp_cUkYlZ08dW68FHumCLf1IvYHRD-xjywgt848PwLu8uZIJ6m_NkAMbft-Tpe5rURqQLVR6bdXpmj9ZzQ_aHscKuevBBfb
+IvRWPqQgh6DizgNJc7pR1MFXnEa7MNT22GaDTwcci7_X89obvdGciAzRair-8XQbmFWLYdSFiyt_GyQRRw9XXNaZQZUNwDQYaEftbNAtMpmT-HacU7jYPSNjkvdOSv1uRvRwmBJzv-UEfs5qOhgPboIr2HiqZUlLRwVF3zsI_OxDQDZD
+76ygWY1jr6WiZnDfMJnUpqEpytLMXD7Jmix3Bnms09Y3C5iFSe_ed_59MmfiKf5HNU4rNJxX15KZJHEtvxj2VvtNzL42YVtO46yvOQ3lKYrUAOI9sIa_IMakl9MUZlyFiMV4b4urYkXVBAjcUm2w1Xfv4i3JfzPr886ULwVprkoZJHNQ
+-G4ptZdVxbBjZ-TSl926WaHeLBjk75G1C2qkDnHKP8gtqiYy6EH9DxqGEObBePrk5Aa-xjVzhauMhsiVSnXZHtG1AMOeco3h5d0hd5sNxY5pTbGSCojtmFYRcnn_XX3sOHu1uxftnNTCWWZRSfKqaObf-g9IUjGs-H2ZAOkYI',
+  chunks: {
+    data_root: Uint8Array(32) [
+      197, 255, 220, 128, 125, 118,  84,
+      106,  68, 178, 108, 102,  78, 162,
+      100, 175, 133, 195, 153,   2, 243,
+      160, 156, 176, 192, 140, 219,  82,
+      128, 206, 211, 196
+    ],
+    chunks: [ [Object], [Object], [Object], [Object], [Object] ],
+    proofs: [ [Object], [Object], [Object], [Object], [Object] ]
+  }
+}
+tx.id
+cB-Ud5jQzJA6E14fhYz09Jkoixli4HwF970o-oGsVaw
+0% complete 0/5
+20% complete 1/5
+40% complete 2/5
+60% complete 3/5
+80% complete 4/5
+100% complete 5/5
+Transaction cB-Ud5jQzJA6E14fhYz09Jkoixli4HwF970o-oGsVaw status code is 404
+Done in 20.63s.
