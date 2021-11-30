@@ -112,12 +112,12 @@ async function handleData (nftData) {
         )
     }
 
-    // var burnAmount = 5; // the amount of koi to burn on registration (burn more to earn more!)
-    // var registration = await koi.registerData(tx.id, initialState.owner)
+    var burnAmount = 1; // the amount of koi to burn on registration (burn more to earn more!)
+    var registration = await koi.burnKoiAttention(tx.id, burnAmount);
 
     const status = await arweave.transactions.getStatus(tx.id)
     console.log(`Transaction ${tx.id} status code is ${status.status}`)
-    // console.log('registered to koii under ', registration)
+    console.log('registered to koii under ', registration)
 
     return result;
 }
